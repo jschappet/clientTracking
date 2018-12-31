@@ -1,0 +1,54 @@
+{
+	"fullName": "Demo Client",
+	"email": "demo-client@gmail.com",
+	"phoneNumber":"",
+	"ortCommunications" : {
+		"email1": { "completed": "", "date": "", "notes": ""},
+		"email2": { "completed": "", "date": "", "notes": ""},
+		"ortschedule": { "completed": "", "date": "", "notes": ""},
+		"infoFormReceived": { "completed": "", "date": "", "notes": ""},
+		"ortCall": { "completed": "", "date": "", "notes": ""},
+		"email3": { "completed": "", "date": "", "notes": ""},
+		"email4": { "completed": "", "date": "", "notes": ""},
+		"email5": { "completed": "", "date": "", "notes": ""},
+		"programAgreement": { "completed": "", "date": "", "notes": ""},
+		"scheduledFirstSession": { "completed": "", "date": "", "notes": ""},
+		"paymentReceived": { "completed": "", "date": "", "notes": ""},
+		"Investment": { "completed": "", "date": "", "notes": ""},	
+	},
+	"programs": [
+		{
+		"programName": "",
+		"programDetails": {
+				"session1" : { "completed": "", "date": "", "notes": ""},
+				"cag1" : { "completed": "", "date": "", "notes": ""},
+				"session2" : { "completed": "", "date": "", "notes": ""},
+				"cag2" : { "completed": "", "date": "", "notes": ""},
+				"session3" : { "completed": "", "date": "", "notes": ""},
+				"cag3" : { "completed": "", "date": "", "notes": ""},
+				"session4" : { "completed": "", "date": "", "notes": ""},
+				"cag4" : { "completed": "", "date": "", "notes": ""},
+				"session5SelfSabotagePremail" : { "completed": "", "date": "", "notes": ""},
+				"session5" : { "completed": "", "date": "", "notes": ""},
+				"cag5" : { "completed": "", "date": "", "notes": ""},
+				"session6" : { "completed": "", "date": "", "notes": ""},
+				"cag6" : { "completed": "", "date": "", "notes": ""},
+				"session7" : { "completed": "", "date": "", "notes": ""},
+				"cag7" : { "completed": "", "date": "", "notes": ""},
+				"session8" : { "completed": "", "date": "", "notes": ""},
+				"cag8" : { "completed": "", "date": "", "notes": ""},
+				"session9" : { "completed": "", "date": "", "notes": ""},
+				"cag9" : { "completed": "", "date": "", "notes": ""},
+				"session10" : { "completed": "", "date": "", "notes": ""},
+				"cag10" : { "completed": "", "date": "", "notes": ""},
+				"session11" : { "completed": "", "date": "", "notes": ""},
+				"cag11" : { "completed": "", "date": "", "notes": ""},
+				"session12" : { "completed": "", "date": "", "notes": ""},
+				"cag12" : { "completed": "", "date": "", "notes": ""},	
+				}
+		}
+	]
+	
+}
+
+
