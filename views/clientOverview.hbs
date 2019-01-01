@@ -1,4 +1,10 @@
 <div id="clintInfo">
+<h1>Client Name: {{client.fullName}}</h1>
+<h2>Email Address: <a href="mailto:{{client.email}}">{{client.email}}</a></h2>
+<h2>Phone Number: {{client.phoneNumber}}</h2>
+{{#each client.notes}}
+	{{> clientnote this }}
+{{/each}}
 </div>
 <div id="ortInfo">
 </div>
